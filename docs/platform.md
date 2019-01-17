@@ -33,3 +33,11 @@ Key code.ca.gov planned features:
 * Roadmap: The project roadmap with general planned features.
 
 * Dashboard: The participation dashboard showcases open source software adoption.
+
+## How We Inventory Code
+
+Code.ca.gov works by first by grabbing a list of all inventoried code from a single source that is hosted on [Github](https://github.com/ODI-BPA/code.ca.gov/blob/master/remote_metadata.json). 
+
+From that file, we run through each agencies entry and grab their associated json file. We then index each json file and make the open source code available and searchable on our platform.
+
+
