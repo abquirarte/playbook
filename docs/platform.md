@@ -36,8 +36,6 @@ Key code.ca.gov planned features:
 
 ## How We Inventory Code
 
-Code.ca.gov works by first by grabbing a list of all inventoried code from a single source that is hosted on [Github](https://github.com/ODI-BPA/code.ca.gov/blob/master/remote_metadata.json). 
+Code.ca.gov works by first harvesting a list of all inventoried code from a single source that is hosted on [Github](https://github.com/ODI-BPA/code.ca.gov/blob/master/remote_metadata.json). 
 
-From that file, we run through each agencies entry and grab their associated json file. We then index each json file and make the open source code available and searchable on our platform.
-
-
+From that file, we run through each agencies entry and fetch their associated json file. We then index each json file and make the open source code available and searchable on our platform.

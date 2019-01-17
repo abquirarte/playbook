@@ -42,6 +42,4 @@ California will leverage existing tools and resources created through the federa
 
     * [Code-Inventory Generator](https://github.com/cfpb/code-inventory-generator) (Consumer Financial Protection Bureau)
 
-* [code.gov Harvester](https://github.com/GSA/code-gov-harvester)
-
 * [code.json Validator](https://code.gov/#!/policy-guide/docs/compliance/inventory-code/tools/validate-schema)
